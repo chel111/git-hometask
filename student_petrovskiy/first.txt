@@ -3,5 +3,3 @@ new changes
 
 new content
 more content
-
-changes to be reverted
